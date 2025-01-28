@@ -12,7 +12,7 @@ I'm a passionate software developer with a focus on web application development,
 
 
 :star: Here are some projects that I'm working on:
-- [GymPulse](https://github.com/crnapagoda/GymPulse)
+- [GymPulse - Fitness Social Media App](https://github.com/crnapagoda/GymPulse)
 - [Key Sharing Through Multiple Channels Tool](https://github.com/crnapagoda/Alat-za-deljenje-kljuceva-putem-vise-kanala)
 - [Weak Password Detection In Database Tool](https://github.com/crnapagoda/Sistem-za-otkrivanje-slabih-lozinki-u-bazi-podataka)
 - [Gym Product Search](https://github.com/crnapagoda/gymproductssearch)
