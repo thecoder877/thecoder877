@@ -16,6 +16,7 @@ I'm a passionate software developer with a focus on web application development,
 - [Key Sharing Through Multiple Channels Tool](https://github.com/crnapagoda/Alat-za-deljenje-kljuceva-putem-vise-kanala)
 - [Weak Password Detection In Database Tool](https://github.com/crnapagoda/Sistem-za-otkrivanje-slabih-lozinki-u-bazi-podataka)
 - [Gym Product Search](https://github.com/crnapagoda/gymproductssearch)
+- [Decentralized voting](https://github.com/crnapagoda/Decentralizovano-glasanje)
 
 
 ### 🚀 What I'm interested in:
