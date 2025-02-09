@@ -35,6 +35,7 @@ I'm a passionate software developer with a focus on web application development,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original-wordmark.svg" alt="supabase" width="35" height="35" />
 </p>
 
 
