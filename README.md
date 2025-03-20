@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm thecoder877</h2>
 
-I'm a passionate software developer with a focus on web application development, software architecture, and cybersecurity. My work involves building secure, efficient, and user-friendly applications while keeping up with the latest technologies.
+I'm a passionate software developer with a focus on web application development, software architecture, and cybersecurity.
 
 :page_with_curl: I'm currently learning:
 <br><br>
