@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm thecoder877</h2>
+<h2>Hey 👋</h2>
 
 I'm a passionate software developer with a focus on web application development, software architecture, and cybersecurity.
 
