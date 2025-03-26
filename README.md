@@ -1,6 +1,6 @@
 <h2>Hey 👋</h2>
 
-I'm a passionate software developer with a focus on web application development, software architecture, and cybersecurity.
+I'm a passionate software developer with a focus on web application development, software architecture, and cysec.
 
 :page_with_curl: I'm currently learning:
 <br><br>
